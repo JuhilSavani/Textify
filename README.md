@@ -56,7 +56,7 @@ To set up Textify locally, follow these steps:
 
 8. **Run the frontend application**:
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## Usage
